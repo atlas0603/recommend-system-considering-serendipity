@@ -9,4 +9,4 @@
 大多数の嗜好は似ているが、特定のジャンルでは違った嗜好のユーザを見つけ出すことで、意外性だったり、発見性がある推薦がしたい。
 
 # イメージ図
-![推薦イメージ図](https://github.com/atlas0603/recommend-system-considering-serendipity/tree/main/img)
+![推薦イメージ図](https://github.com/atlas0603/recommend-system-considering-serendipity/blob/main/img/%E6%8E%A8%E8%96%A6%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E5%9B%B3.png)
